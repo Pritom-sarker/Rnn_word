@@ -1,0 +1,9 @@
+Total Num of words : 756136 
+Num of Char:: 37 
+Total Sentence: 4038842 
+
+
+
+******************** Loop Start*******************
+
+
